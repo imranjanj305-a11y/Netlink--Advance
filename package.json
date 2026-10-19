@@ -1,0 +1,12 @@
+{
+  "name": "netlink-advance",
+  "version": "1.0.0",
+  "description": "Next-Gen Remote Desktop Signaling Server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.16.0"
+  }
+}
